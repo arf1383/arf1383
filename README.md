@@ -23,7 +23,7 @@ I am a Computer Engineering student, starting my journey with Python in 2019 and
 
 
 ## Highlighted Projects
-- [Project 1](project-link)
+- [Hospital Automation System](https://github.com/arf1383/Hospital-Automation): A system designed to automate various hospital operations like patient management, doctor scheduling, and treatment tracking. It enhances efficiency and simplifies healthcare workflows through software automation.
 - [Project 2](project-link)
 
 ## Contact Me
