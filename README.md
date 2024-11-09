@@ -14,7 +14,6 @@ I'm a developer skilled in:
 - [![Docker](https://img.icons8.com/ios-filled/50/000000/docker.png)](https://github.com/arf1383)
 - [![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)](https://github.com/arf1383)
 - [![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)](https://github.com/arf1383)
-- [![Django REST Framework](https://img.icons8.com/ios-filled/50/000000/rest-api.png)](https://github.com/arf1383)
 - [![Network and Security](https://img.icons8.com/ios-filled/50/000000/network.png)](https://github.com/arf1383)
 - [![Django](https://img.icons8.com/ios-filled/50/000000/django.png)](https://github.com/arf1383)
 
