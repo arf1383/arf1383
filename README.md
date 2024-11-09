@@ -24,7 +24,7 @@ I am a Computer Engineering student, starting my journey with Python in 2019 and
 
 ## Highlighted Projects
 - [Hospital Automation System](https://github.com/arf1383/Hospital-Automation): A system designed to automate various hospital operations like patient management, doctor scheduling, and treatment tracking. It enhances efficiency and simplifies healthcare workflows through software automation.
-- [Project 2](project-link)
+- [Cinema Ticketing System](https://github.com/arf1383/Cinema_ticket): A comprehensive cinema management system that includes features like showtime reservation, user management, bank account management, subscription handling, and discounts. It automates processes and enhances the user experience, making cinema operations more efficient.
 
 ## Contact Me
 [LinkedIn](https://shorturl.at/9uxw6) | [Telegram](https://t.me/Alireza8366) | [Email](mailto:arf.firouzja1583@gmail.com)
