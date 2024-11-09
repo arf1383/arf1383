@@ -4,18 +4,19 @@ I'm a developer skilled in:
 
 ## Skills
 - Languages: 
-  - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://github.com/arf1383)
-  - [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://github.com/arf1383)
+  - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/arf1383)
+  - [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://github.com/arf1383)
 
 ## Technologies
-- [![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://github.com/arf1383)
-- [![Linux](https://img.icons8.com/ios-filled/50/000000/linux.png)](https://github.com/arf1383)
-- [![Git](https://img.icons8.com/ios-filled/50/000000/git.png)](https://github.com/arf1383)
-- [![Docker](https://img.icons8.com/ios-filled/50/000000/docker.png)](https://github.com/arf1383)
-- [![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)](https://github.com/arf1383)
-- [![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)](https://github.com/arf1383)
-- [![Network and Security](https://img.icons8.com/ios-filled/50/000000/network.png)](https://github.com/arf1383)
-- [![Django](https://img.icons8.com/ios-filled/50/000000/django.png)](https://github.com/arf1383)
+- [![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)](https://github.com/arf1383)
+- [![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)](https://github.com/arf1383)
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://github.com/arf1383)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/arf1383)
+- [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://github.com/arf1383)
+- [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://github.com/arf1383)
+- [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-1E50A2?logo=django&logoColor=white)](https://github.com/arf1383)
+- [![Network and Security](https://img.shields.io/badge/Network%20and%20Security-2F3A3B?logo=network&logoColor=white)](https://github.com/arf1383)
+- [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://github.com/arf1383)
 
 ## About Me
 [A short description about your expertise and interests can be added here]
