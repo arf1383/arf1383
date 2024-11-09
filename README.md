@@ -19,7 +19,8 @@ I'm a developer skilled in:
 - [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://github.com/arf1383)
 
 ## About Me
-[A short description about your expertise and interests can be added here]
+I am a Computer Engineering student, starting my journey with Python in 2019 and learning C++ in 2021. Currently, I am pursuing software engineering. I enjoy challenging myself, solving puzzles, and I’m strong at problem-solving.
+
 
 ## Highlighted Projects
 - [Project 1](project-link)
