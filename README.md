@@ -1,6 +1,6 @@
 # Hi! I'm Alireza Rahmani Firouzja 👋
 
-I'm a developer skilled in:
+I'm a softawre engineer
 
 ## Skills
 - Languages: 
