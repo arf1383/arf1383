@@ -3,7 +3,9 @@
 I'm a developer skilled in:
 
 ## Skills
-- Languages: [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30)](https://github.com/arf1383) [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://github.com/arf1383)
+- Languages: 
+  - [![Python](https://img.icons8.com/color/48/000000/python.png)](https://github.com/arf1383)
+  - [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://github.com/arf1383)
 
 ## About Me
 [A short description about your expertise and interests can be added here]
